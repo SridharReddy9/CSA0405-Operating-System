@@ -18,5 +18,6 @@ b. Assume that no process waits on I/O devices.
 ![Screenshot (14)](https://user-images.githubusercontent.com/113843187/217615242-06c5f655-f21a-40da-8687-66f6c6f04f3c.png)
 ## Experiment-8 :Construct a C program to simulate Round Robin scheduling algorithm with C.
 (https://github.com/SridharReddy9/CSA0405-Operating-System/blob/main/Experiment-8.cpp)
-![Screenshot (16)](https://user-images.githubusercontent.com/113843187/217615270-bbd179cb-82d1-479c-9e4b-102d34913a60.png)
 ![Screenshot (15)](https://user-images.githubusercontent.com/113843187/217615258-c1616b80-1b36-4dd0-9146-6b6b3e7258dc.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/113843187/217615270-bbd179cb-82d1-479c-9e4b-102d34913a60.png)
+
